@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<user>9</user>
+<inputFinger>two thumbs</inputFinger>
+<keyboardType>default keyboard</keyboardType>
+<taskType>1</taskType>
+<gestureExpert>0</gestureExpert>
+<device>Huawei AOSP on angler</device>
+<inputMode>Tap Input</inputMode>
+<screenOption>screen_on</screenOption>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>0</trialNum>
+	<stimulus>the power of denial</stimulus>
+	<submitTime>100306376</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>1</trialNum>
+	<stimulus>the force is with you</stimulus>
+	<submitTime>100317238</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>2</trialNum>
+	<stimulus>the world is a stage</stimulus>
+	<submitTime>100327613</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>3</trialNum>
+	<stimulus>all work and no play</stimulus>
+	<submitTime>100335777</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>4</trialNum>
+	<stimulus>time to go shopping</stimulus>
+	<submitTime>100350352</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>5</trialNum>
+	<stimulus>the price of gas is high</stimulus>
+	<submitTime>100360264</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>6</trialNum>
+	<stimulus>a problem with the engine</stimulus>
+	<submitTime>100369574</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>7</trialNum>
+	<stimulus>the living is easy</stimulus>
+	<submitTime>100377595</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>8</trialNum>
+	<stimulus>for your information only</stimulus>
+	<submitTime>100389660</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>9</trialNum>
+	<stimulus>the capital of our nation</stimulus>
+	<submitTime>100399871</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>10</trialNum>
+	<stimulus>are you talking to me</stimulus>
+	<submitTime>100410988</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>11</trialNum>
+	<stimulus>zero in on the facts</stimulus>
+	<submitTime>100427576</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>12</trialNum>
+	<stimulus>do not drink the water</stimulus>
+	<submitTime>100440258</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>13</trialNum>
+	<stimulus>stability of the nation</stimulus>
+	<submitTime>100456397</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>14</trialNum>
+	<stimulus>please follow the guidelines</stimulus>
+	<submitTime>100467695</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>15</trialNum>
+	<stimulus>sad to hear that news</stimulus>
+	<submitTime>100479281</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>16</trialNum>
+	<stimulus>life is but a dream</stimulus>
+	<submitTime>100487175</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>17</trialNum>
+	<stimulus>the second largest country</stimulus>
+	<submitTime>100504188</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>18</trialNum>
+	<stimulus>with each step forward</stimulus>
+	<submitTime>100513832</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>19</trialNum>
+	<stimulus>a quarter of a century</stimulus>
+	<submitTime>100524169</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>20</trialNum>
+	<stimulus>communicate through email</stimulus>
+	<submitTime>100536330</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>21</trialNum>
+	<stimulus>he called seven times</stimulus>
+	<submitTime>100549923</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>22</trialNum>
+	<stimulus>tickets are very expensive</stimulus>
+	<submitTime>100565535</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>23</trialNum>
+	<stimulus>want to join us for lunch</stimulus>
+	<submitTime>100577001</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>24</trialNum>
+	<stimulus>the library is closed today</stimulus>
+	<submitTime>100587817</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>25</trialNum>
+	<stimulus>love means many things</stimulus>
+	<submitTime>100596360</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>26</trialNum>
+	<stimulus>frequently asked questions</stimulus>
+	<submitTime>100615003</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>27</trialNum>
+	<stimulus>protect your environment</stimulus>
+	<submitTime>100628736</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>28</trialNum>
+	<stimulus>thank you for your help</stimulus>
+	<submitTime>100642516</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>29</trialNum>
+	<stimulus>completely sold out of that</stimulus>
+	<submitTime>100660385</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>30</trialNum>
+	<stimulus>companies announce a merger</stimulus>
+	<submitTime>100683057</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>31</trialNum>
+	<stimulus>the rationale behind the decision</stimulus>
+	<submitTime>100699239</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>32</trialNum>
+	<stimulus>we accept personal checks</stimulus>
+	<submitTime>100710841</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>33</trialNum>
+	<stimulus>sent this by registered mail</stimulus>
+	<submitTime>100723497</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>34</trialNum>
+	<stimulus>just what the doctor ordered</stimulus>
+	<submitTime>100737679</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>35</trialNum>
+	<stimulus>be discreet about your meeting</stimulus>
+	<submitTime>100752543</submitTime>
+</trial>
+</root>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for Latin keyboard  -->
+    <string name="app_name">LowPowerEvaluation</string>
+
+    <!-- Symbols that are commonly considered word separators in this language -->
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+    <string name="bottom_arrow">&#9660;</string>
+    <string name="up_arrow">&#9650;</string>
+
+    <!-- Labels on soft keys -->
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="title_next">Next</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_user_id">User Id</string>
+    <string name="title_input_finger">Input Finger</string>
+    <string name="title_task_type">Task Type</string>
+    <string name="title_input_type">Input Type</string>
+    <string name="title_is_gesture_expert">Gesture Expert?</string>
+    <string name="title_data_set">Data Set</string>
+    <string name="title_keyboard_type">Keyboard Type</string>
+    <string name="title_screen_off_freq">Screen Off Options</string>>
+    <string name="index_finger_gesture">i-Index Finger, Gesture</string>
+    <string name="one_thumb_gesture">t-One Thumb, Gesture</string>
+    <string name="index_finger_touch">i-Index Finger, Touch</string>
+    <string name="two_thumbs_touch">tt-Two Thumbs, Touch</string>
+    <string name="one_thumb_touch">t-One Thumb, Touch</string>
+    <string name="t_20">T-20</string>
+    <string name="t_40">T-40</string>
+    <string name="t_80">T-80</string>
+    <string name="t_160">T-160</string>
+    <string name="touch_input">Touch Input</string>
+    <string name="gesture_input">Gesture Input</string>
+    <string name="default_keyboard">Default Keyboard</string>
+    <string name="invisible_tap">Invisible Tap Keyboard</string>
+    <string name="screen_default">Turning ON</string>
+    <string name="screen_wordwise">Turning OFF word-wise</string>
+    <string name="screen_off">Turning OFF</string>
+    <string name="screen_off_arbitrary">Turning OFF arbitrarily</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="text_OK">OK</string>
+    <string name="instruction_typing">Enter the phrase by tapping.
+                                      Try to input as fast but as naturally as possible.
+                                      Begin with a warm-up.</string>
+    <string name="instruction_spaceless_typing">Enter the phrase by tapping.
+                                      Omit the spaces between words and try to input as fast but as
+                                      naturally as possible.
+                                      Begin with a warm-up.</string>
+    <string name="instruction_gesturing">Enter the phrase by gesturing.
+                                      Try to input as fast but as naturally as possible.
+                                      Begin with a warm-up.</string>
+    <string name="instructions_forced_cancel">The entered phrase has a big offset from the intended
+        phrase. Let\'s repeat.</string>
+    <string name="instructions_button_cancel">You have pressed the cancel button.
+        Let\'s repeat.</string>
+    <string name="touch_points_logger_file_head">
+        \nFile Format is
+        \n
+        \n(0)UserID: the id of the user.
+        \n
+        \n(1)Inputting_Finger: input posture. i - index finger, t - one thumb, tt - two thumbs.
+        Participants were instructed to choose the most comfortable postures in the study.
+        \n
+        \n(2)KeyboardType: invisible tap keyboard (invisible_tap), semi-invisible tap keyboard
+        (semi_invisible_tap), invisible gesture keyboard (invisible_gesture), tv keyboard with
+        reference (tv_ref) or tv keyboard without reference(tv_no_ref).
+        \n
+        \n(3)TaskType: phrase input: T-20(0), T-40(1), T-80(2), T-160(3) or word repetition(4).
+        \n
+        \n(4)IsGestureExpert: 0-not an expert in gesture input, 1-an expert in gesture input.
+        \n
+        \n(5)Device Name.
+        \n
+        \n(6)InputMode: 0 - gesture, 1 - typing with space.
+        \n
+        \n(7)Trial Information:
+        \n
+        \n (i)BlockNum: Block number in the study. Block-0 is the warm-up session. The data in this
+        session should be removed.
+        \n
+        \n (ii)TrialNum: Trial Number.
+        \n
+        \n (iii)Stimulus: presented phrase.
+        \n
+        \n (iv)IME data: retrieved from IME via private command, contains list of TouchPoints (x,
+        y, pointer_ids, time), startTime, TypedWord (literal string of tap input), list of
+        Suggestions, and CommittedWord.
+        \n Note that for gesture input, startTime is the (down event) time of the first point in
+        the gesture stroke, and time array lists the time difference from startTime. pointCount is
+        the total number of touch points in the current gesture stroke.
+        \n For tap input, startTime is the (down event) time of the current touch point, i.e.,
+        time[pointCount - 1] = startTime. pointCount is the total number of taps received so far for
+        the current word.
+        \n
+        \n(v)isCanceled: if isCanceled==1, discard this trial data.
+        \n
+        \n(vi)editTextContent: the submitted text content for the current trial.
+        \n
+    </string>
+    <string name="screen_logger_file_head">
+        #File Format is
+        \n#
+        \n# (0)Inputting_Finger: input posture. i - index finger, t - one thumb, tt - two thumbs.
+        Participants were instructed to choose the most comfortable postures in the study.
+        \n#
+        \n# (1)UserID: the id of the user.
+        \n#
+        \n# (2)KeyboardType: invisible tap keyboard (invisible_tap), semi-invisible tap keyboard
+        (semi_invisible_tap), invisible gesture keyboard (invisible_gesture), tv keyboard with
+        reference (tv_ref) or tv keyboard without reference(tv_no_ref).
+        \n#
+        \n# (3)TaskType: phrase input(0) or word repetition(1).
+        \n#
+        \n# (4)BlockNum: Block number in the study. Block-0 is the warm-up session. The data in this
+        session should be removed.
+        \n#
+        \n# (5)TrialNum: Trial Number.
+        \n#
+        \n# (6)Phrase: presented phrase
+        \n#
+        \n# (7)curSysTime: the value obtained by calling System.currentTimeMillis()
+        \n#
+        \n# (8)upNowTime: the value obtained by calling SystemClock.upTimeMillis()
+        \n#
+        \n# (9)eventTime: The time in nanosecond at which the event happened,
+        obtained by calling SensorEvent.timestamp
+        \n#
+        \n# (10)sensorType: generic type of the sensor. 1 - TYPE_ACCELEROMETER, 4 - TYPE_GYROSCOPE
+        \n#
+        \n# (11)value0, (12)value1, (13)value2:
+        \n# value0, value1, value2:  TYPE_ACCELEROMETER:
+        \n#\t                        All values are in SI units (m/s^2)
+        \n#\t                        value0:  Acceleration minus Gx on the x-axis
+        \n#\t                        values1: Acceleration minus Gy on the y-axis
+        \n#\t                        values2: Acceleration minus Gz on the z-axis
+        \n#\n
+        \n#\t                 TYPE_GYROSCOPE:
+        \n#\t                     value0:  Angular speed around the x-axis
+        \n#\t                     values1: Angular speed around the y-axis
+        \n#\t                     values2: Angular speed around the z-axis
+        \n# Detailed information is at {@link
+        http://developer.android.com/reference/android/hardware/SensorEvent.html#values}.
+        \n#
+        \n# (14)IsGestureExpert: 0-not an expert in gesture input, 1-an expert in gesture input.
+        \n#
+        \n# (15)Device: the device on which the data was collected (e.g., nexus galaxy or nexus 7)
+        \n#
+        \n# (16)InputMode: 0 - gesture, 1 - typing with space.
+        \n#\n
+   </string>
+    <string name="loading">Loading…</string>
+    <string name="device_admin_not_enabled">Screen Off application was not marked as Device Administrator. Please check Security settings.</string>
+    <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
+    <string name="admin_receiver_status_enabled">Screen Off was added as Device Administrator</string>
+    <string name="admin_receiver_status_disabled">Screen Off was removed from Device Administrators list</string>
+</resources>

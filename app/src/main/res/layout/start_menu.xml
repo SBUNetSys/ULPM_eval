@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_user_id"/>
+
+    <EditText
+        android:id="@+id/ET_UserId"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_input_type"/>
+
+    <RadioGroup
+        android:id="@+id/radioInputType"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/radioInputTypeIndexGesture"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/index_finger_gesture"-->
+            <!--android:paddingStart="0dp"-->
+            <!--android:paddingEnd="50dp"-->
+            <!--android:visibility="gone"/>-->
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/radioInputTypeOneThumbGesture"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/one_thumb_gesture"-->
+            <!--android:visibility="gone"/>-->
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/radioInputTypeIndexTouch"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/index_finger_touch" />-->
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/radioInputTypeOneThumbTouch"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/one_thumb_touch" />-->
+
+        <RadioButton
+            android:id="@+id/radioInputTypeTwoThumbTouch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/two_thumbs_touch"
+            android:checked="true"/>
+    </RadioGroup>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <Button
+        android:id="@+id/bnStart1"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/title_next"/>
+</LinearLayout>

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<user>11</user>
+<inputFinger>two thumbs</inputFinger>
+<keyboardType>default keyboard</keyboardType>
+<taskType>1</taskType>
+<gestureExpert>0</gestureExpert>
+<device>Huawei AOSP on angler</device>
+<inputMode>Tap Input</inputMode>
+<screenOption>screen_off_arbitrary</screenOption>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>0</trialNum>
+	<stimulus>call for more details</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6515240</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6525521</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6531427</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6539821</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6541141</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6543634</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6579045</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6595557</time>
+	<submitTime>6607783</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>1</trialNum>
+	<stimulus>the world is a stage</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6613601</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6621851</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6634361</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6639328</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6665307</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6675634</time>
+	<submitTime>6676941</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>2</trialNum>
+	<stimulus>i agree with you</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6678747</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6685149</time>
+	<submitTime>6685818</submitTime>
+</trial>
+<trial>
+	<blockNum>0</blockNum>
+	<trialNum>3</trialNum>
+	<stimulus>all work and no play</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6688166</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6694914</time>
+	<submitTime>6696538</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>4</trialNum>
+	<stimulus>a problem with the engine</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6806217</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6818201</time>
+	<submitTime>6819054</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>5</trialNum>
+	<stimulus>for your information only</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6821291</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6834034</time>
+	<submitTime>6836633</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>6</trialNum>
+	<stimulus>zero in on the facts</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6839695</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6849875</time>
+	<submitTime>6850917</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>7</trialNum>
+	<stimulus>the price of gas is high</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6852624</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6875731</time>
+	<submitTime>6879987</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>7</trialNum>
+	<stimulus>the price of gas is high</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6889240</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6900129</time>
+	<submitTime>6901142</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>8</trialNum>
+	<stimulus>are you talking to me</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6903225</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6914671</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6920325</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6924855</time>
+	<submitTime>6925494</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>8</trialNum>
+	<stimulus>are you talking to me</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6929579</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6938484</time>
+	<submitTime>6939367</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>9</trialNum>
+	<stimulus>the living is easy</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6940805</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6954656</time>
+	<submitTime>6956155</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>9</trialNum>
+	<stimulus>the living is easy</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6958677</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6966258</time>
+	<submitTime>6966879</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>10</trialNum>
+	<stimulus>the capital of our nation</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>6968276</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6979769</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6986159</time>
+	<isScreenOn>1</isScreenOn>
+	<time>6989982</time>
+	<isScreenOn>0</isScreenOn>
+	<time>6992587</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7000457</time>
+	<submitTime>7001155</submitTime>
+</trial>
+<trial>
+	<blockNum>1</blockNum>
+	<trialNum>11</trialNum>
+	<stimulus>time to go shopping</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7003239</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7015788</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7018191</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7020525</time>
+	<submitTime>7021072</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>12</trialNum>
+	<stimulus>a quarter of a century</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7028830</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7037311</time>
+	<submitTime>7037964</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>13</trialNum>
+	<stimulus>the second largest country</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7039900</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7048435</time>
+	<submitTime>7049092</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>14</trialNum>
+	<stimulus>please follow the guidelines</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7050751</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7061223</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7065892</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7068811</time>
+	<submitTime>7069365</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>15</trialNum>
+	<stimulus>life is but a dream</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7072232</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7078938</time>
+	<submitTime>7079449</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>16</trialNum>
+	<stimulus>stability of the nation</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7081346</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7090606</time>
+	<submitTime>7091665</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>17</trialNum>
+	<stimulus>sad to hear that news</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7093168</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7102801</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7103987</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7105263</time>
+	<submitTime>7108536</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>18</trialNum>
+	<stimulus>with each step forward</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7110626</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7119673</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7121153</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7126871</time>
+	<submitTime>7127592</submitTime>
+</trial>
+<trial>
+	<blockNum>2</blockNum>
+	<trialNum>19</trialNum>
+	<stimulus>do not drink the water</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7129330</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7137743</time>
+	<submitTime>7138334</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>20</trialNum>
+	<stimulus>the library is closed today</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7148760</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7153707</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7157294</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7164572</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7168594</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7176038</time>
+	<submitTime>7177104</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>21</trialNum>
+	<stimulus>want to join us for lunch</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7179167</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7189847</time>
+	<submitTime>7190406</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>22</trialNum>
+	<stimulus>love means many things</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7191995</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7195279</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7198421</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7209977</time>
+	<submitTime>7210821</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>23</trialNum>
+	<stimulus>tickets are very expensive</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7212855</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7220657</time>
+	<submitTime>7221210</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>24</trialNum>
+	<stimulus>communicate through email</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7223212</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7230087</time>
+	<submitTime>7230598</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>25</trialNum>
+	<stimulus>he called seven times</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7232189</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7240086</time>
+	<submitTime>7240696</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>26</trialNum>
+	<stimulus>frequently asked questions</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7242196</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7249650</time>
+	<submitTime>7250448</submitTime>
+</trial>
+<trial>
+	<blockNum>3</blockNum>
+	<trialNum>27</trialNum>
+	<stimulus>protect your environment</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7251953</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7264812</time>
+	<submitTime>7266207</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>28</trialNum>
+	<stimulus>thank you for your help</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7287261</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7295905</time>
+	<submitTime>7296555</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>29</trialNum>
+	<stimulus>the rationale behind the decision</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7298242</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7307745</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7311979</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7321885</time>
+	<submitTime>7322612</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>30</trialNum>
+	<stimulus>we accept personal checks</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7324733</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7334673</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7339062</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7348075</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7351085</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7353848</time>
+	<submitTime>7354443</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>31</trialNum>
+	<stimulus>sent this by registered mail</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7356393</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7369030</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7370935</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7372466</time>
+	<submitTime>7373022</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>32</trialNum>
+	<stimulus>companies announce a merger</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7376282</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7384929</time>
+	<submitTime>7385507</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>33</trialNum>
+	<stimulus>be discreet about your meeting</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7387289</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7392678</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7397387</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7411414</time>
+	<isScreenOn>0</isScreenOn>
+	<time>7413875</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7417874</time>
+	<submitTime>7418950</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>34</trialNum>
+	<stimulus>completely sold out of that</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7420838</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7431365</time>
+	<submitTime>7431959</submitTime>
+</trial>
+<trial>
+	<blockNum>4</blockNum>
+	<trialNum>35</trialNum>
+	<stimulus>just what the doctor ordered</stimulus>
+	<isScreenOn>0</isScreenOn>
+	<time>7433451</time>
+	<isScreenOn>1</isScreenOn>
+	<time>7442581</time>
+	<submitTime>7443065</submitTime>
+</trial>
+</root>

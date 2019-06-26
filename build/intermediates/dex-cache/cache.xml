@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/suwen/tools/Android/Sdk/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_11f1979764638b0f19a8a7714033b6de66140335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/5d65a46c853d2fedb5bee50c4326932d53b66fba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9145e1858dbb4192ac3cc9262062d432401ce688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/431953d3463d08ae4ac377bd5d483b365b3b0cc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dbd6760dbe109f83be8abf4eb7af5b7731e84b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5a5361b9d5e54860a55a5d65f4dfd0968cca0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/c8e97c9c5cf6ea4bcd683ddc8c406c9c4fd09451/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a69ea4a296331c4d2186619ed47d99135b4ea658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/61e567e2eaafc37d65f9e63944c0ba43a0152992/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a7f2e8872151897ce0c042071f24660df49891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/tools/Android/Sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2c4fff76f4c10cbc3cc8ef3949754a6129dbd4bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ef9c71d12af251cc1124eb564e923a719e0585f">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ee07235fa27532c67acd4d670b9a924a8bc32ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/d6370cbf5c72865593694d1feb5608ac3a30210f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c14ec3a331ea3838172f402317ccfd3fcfef26d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/d5fa851483e76f2041b0fc3c9f4b0cf1302d0759/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8917cb8be98f1b59ffe925fa1f27b8e118c5afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/e6b233e03e453c563f98138553db94402b21c9b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4ba3f47a6f571c6445ef5ca80b3081b16510361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/3522bd5ef116179faa26f1ec31e6c20ced5d4b5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4a1f237ab2b7fc80999794d67081f57dcd16394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/c49be1ebd46e2bf67be5511be8738d88d87a8044/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb5866a3929435c8aa14a47c7dd808bf11008032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/suwen/.android/build-cache/8dc209b1a9ea3626cf4b5c166b9104fe86ad6627/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/suwen/workspace/git/lowpowerevaluation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fda769b3806b186e94132f94fedb545698caaa74/classes.dex" />
+    </item>
+
+</items>

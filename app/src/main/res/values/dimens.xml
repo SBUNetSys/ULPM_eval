@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">50dip</dimen>
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="dialog_text_size">18sp</dimen>
+    <dimen name="dialog_text_size_big">10sp</dimen>
+    <dimen name="dialog_next_text_size">24sp</dimen>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="next_button_icon_size">40sp</dimen>
+    <dimen name="task_info_text_size">14sp</dimen>
+    <dimen name="stimulus_text_size">20sp</dimen>
+    <dimen name="input_text_size">18sp</dimen>
+    <dimen name="dialog_width">180dp</dimen>
+    <dimen name="button_margin_horizontal_narrow">15dip</dimen>
+    <dimen name="button_margin_horizontal">35dip</dimen>
+    <dimen name="button_margin_bottom">10dip</dimen>
+    <dimen name="button_margin_top">10dip</dimen>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_data_set" />
+
+    <RadioGroup
+        android:id="@+id/radioDataSet"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioDataSetT20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/t_20"
+            android:visibility="gone"/>
+
+        <RadioButton
+            android:id="@+id/radioDataSetT40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/t_40"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radioDataSetT80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/t_80"
+            android:visibility="gone"/>
+
+        <RadioButton
+            android:id="@+id/radioDataSetT160"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/t_160"
+            android:visibility="gone"/>
+
+    </RadioGroup>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_keyboard_type"/>
+
+    <RadioGroup
+        android:id="@+id/radioKeyboardType"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioKeyboardTypeDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/default_keyboard"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radioKeyboardTypeInvisibleTap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/invisible_tap"
+            android:visibility="gone"/>
+    </RadioGroup>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_screen_off_freq"/>
+
+    <RadioGroup
+        android:id="@+id/radioScreenOffFreq"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/radioScreenByDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/screen_default"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/radioScreenOff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/screen_off"/>
+
+        <RadioButton
+            android:id="@+id/radioScreenWordwise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/screen_wordwise"/>
+
+        <RadioButton
+            android:id="@+id/radioScreenOffArbitrary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/screen_off_arbitrary"/>
+
+    </RadioGroup>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <Button
+        android:id="@+id/bnStart2"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/title_next"/>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout">
+
+    <TextView
+        android:id="@+id/taskInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/task_info_text_size"
+        android:gravity="center_horizontal"
+        android:paddingBottom="8dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView android:id="@+id/stimulus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/stimulus_text_size"
+        android:gravity="center_horizontal"
+        android:typeface="monospace"
+        android:paddingTop="0dp"
+        android:layout_below="@id/taskInfo"/>
+
+    <com.example.lowpowerevaluation.MockEditText
+        android:id="@+id/inputEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/stimulus"
+        android:paddingBottom="10dp"
+        android:textIsSelectable="false"
+        android:typeface="monospace"
+        android:textSize="@dimen/input_text_size"
+        android:gravity="start"/>
+
+    <Button android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/inputEditText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/button_margin_horizontal"
+        android:text="@string/up_arrow"
+        android:textColor="@color/green"
+        android:textSize="@dimen/next_button_icon_size"
+        android:background="@color/transparent"
+        android:rotation="90"/>
+
+</RelativeLayout>
